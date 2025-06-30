@@ -104,4 +104,6 @@ The dataset used in this project contains information on employees, including:
 - SQL-based filtering & grouping insights
 
 ---
+## 📌 Developed by MUSKAN KUMARI 
+🔗 **Connect on LinkedIn:** [Muskan Kumari](www.linkedin.com/in/muskan-kumari-60665a2a6)  
 
